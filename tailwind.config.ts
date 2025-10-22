@@ -57,6 +57,12 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        "editable-box": {
+          DEFAULT: "hsl(var(--editable-box))",
+          foreground: "hsl(var(--editable-box-foreground))",
+        },
+        "table-header": "hsl(var(--table-header))",
+        "table-border": "hsl(var(--table-border))",
       },
       borderRadius: {
         lg: "var(--radius)",
